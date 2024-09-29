@@ -1,0 +1,10 @@
+Use git bash:
+1. Install Waitress:
+
+pip install waitress
+
+2. Run your application with Waitress:
+
+waitress-serve --host=0.0.0.0 --port=8000 voice:app
+
+3. 
