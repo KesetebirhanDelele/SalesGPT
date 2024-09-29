@@ -1,0 +1,24 @@
+Colaberry product 1: Data Analytics
+Colaberry Introduction to Data Analytics course is tailored for beginners, offering a foundational understanding of this critical field. Discover the power of data analytics, artificial intelligence, and machine learning—the trio shaping the future. Our seminar goes beyond theory, providing hands on projects that allow you to apply newfound knowledge in practical scenarios. Gain cutting edge expertise in data analytics, and unlock lucrative career opportunities in technology.
+Admission Requirements: Completion of high school level or high school equivalency credential, recognized by an institution of higher education as defined by Texas Education Code, 61.003
+Price: $1999
+Curriculum: Data Analytics Tools 22 hours, Analysis and Reporting 9.5 hours, Data Integration 11.5 hours
+Schedule: 2.5 hours on Wednesdays 6:30 PM to 9 PM CST and Saturdays 9 AM to 12:30 PM CST
+Duration: 12 weeks, Online
+
+Colaberry product 2: Data Science
+Colaberry Data Science program will cover the theory and application of data science. You will learn how to ask the right questions, perform large scale data analysis, and visualize your findings in compelling ways using Python and Machine Learning Algorithms.
+Admission Requirements: Completion of high school level or high school equivalency credential, recognized by an institution of higher education as defined by Texas Education Code, 61.003 Plus Exposure to programming. 
+Price: $4,000
+Curriculum: Data Science 1. Python Essentials & Data Handling, Data Science 2. Foundations of ML, Data Science 3 ML Algorithms
+Schedule: Wednesdays 6:30 PM to 9 PM CST and Saturdays 9 AM to 12:30 PM CST
+Duration: 8 weeks, Online
+
+Colaberry product 3: Job Readiness
+Our Job Readiness Program, unmatched and unique on a global scale, is meticulously crafted to fast track your career in data analytics and data science. Upon enrollment, you'll immerse yourself in in house projects, benefit from mentorship by industry professionals, engage in group discussions, undergo comprehensive preparation, take part in realistic mock interviews enhanced with AI driven feedback, gain insights into crafting impactful resumes and portfolios, and receive guidance for pursuing roles in Data and AI.
+Admission Requirements: Completion of high school level or high school equivalency credential, recognized by an institution of higher education as defined by Texas Education Code, 61.003 Plus Exposure to programming and
+Knowledge of Data Analytics fundamentals, equal to a minimum of 40 hours of formal instruction in data analytics or 3 to 6 months of employment in a data analytics position or completion of the Introduction to Data Analytics Seminar. Completion of the Introduction to Data Analytics Seminar is required if you are new to Data Analytics.
+Curriculum: 1. Interview Preparation Bootcamp, 2. Career Accelerator Program in one of five streams: Power BI, Tableau, Qlink, ETL and Data Warehousing
+Price: $2,999
+Schedule: Saturdays 10 AM to 12 PM CST and Mon, Wed, Thur 8 PM to 9:30 PM CST Optional help sessions
+Duration: 6 to 12 months
