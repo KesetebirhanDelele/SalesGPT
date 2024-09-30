@@ -188,7 +188,7 @@ typer==0.12.5
 typing-inspect==0.9.0
 typing_extensions==4.12.2
 tzdata==2024.1
-urllib3==2.2.2
+urllib3==1.26.16
 uvicorn==0.31.0
 virtualenv==20.26.5
 waitress==3.0.0
