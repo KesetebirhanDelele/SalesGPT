@@ -100,7 +100,7 @@ msgpack==1.0.8
 multidict==6.1.0
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
-networkx==3.3
+networkx==2.8.7
 numba==0.60.0
 numpy==1.26.4
 oauthlib==3.2.2
