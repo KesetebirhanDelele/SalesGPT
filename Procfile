@@ -1,1 +1,1 @@
-web: gunicorn voice:app
+web: python voice.py
