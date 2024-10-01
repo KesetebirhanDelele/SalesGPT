@@ -5,7 +5,6 @@
 examples/sales_agent_bedrock.ipynb
 
 *.log
-**.env
 .env.fe
 .DS_Store
 **__pycache__
